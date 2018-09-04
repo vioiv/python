@@ -1,1 +1,10 @@
+import math
 print("hello, world!")
+print(2+3)
+print(5-10)
+print(3*4)
+print(5/3)
+print(math.ceil(3.12))
+print(math.floor(3.6))
+print(math.pow(2,10))
+print(math.pi)
